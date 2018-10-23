@@ -102,4 +102,4 @@ def play(my_songs)
     end
 
   end
-run(songs)
+run(my_songs)
